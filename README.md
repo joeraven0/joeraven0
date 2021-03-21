@@ -1,9 +1,9 @@
 ### 2021-03-21
 
 - 👋 Hi, I’m @joeraven0
-- 👀 I’m interested in girls (kidding I'm a computer guy incel)
+- 👀 I’m interested in girls (kidding I'm a computer guy)
 - 🌱 I’m currently learning ... Linux bash
-- 💞️ I’m looking to collaborate on ... everything
+- 💞️ I’m looking to collaborate on ... getting more computers to our lives
 - 📫 How to reach me ... search me, I'll find you.
 
 ![potrait](https://github.com/joeraven0/joeraven0/blob/main/potrait0.jpg)
