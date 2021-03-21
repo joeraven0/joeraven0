@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeraven0
-- 👀 I’m interested in girls (kidding I'm a computer guy and an incel)
+- 👀 I’m interested in girls (kidding I'm a computer guy incel)
 - 🌱 I’m currently learning ... Linux bash
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... search me, I'll find you.
