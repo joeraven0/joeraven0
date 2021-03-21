@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... search me, I'll find you.
 
-![potrait](https://github.com/joeraven0/joeraven0/blob/main/potrait.jpg)
+![potrait](https://github.com/joeraven0/joeraven0/blob/main/potrait0.jpg)
 
 <!---
 joeraven0/joeraven0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
