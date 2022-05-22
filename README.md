@@ -1,8 +1,8 @@
-### 2021-03-21
+### 2022-05-22
 
 - 👋 Hi, I’m @joeraven0
 - 👀 I’m interested in girls (kidding I'm a computer guy)
-- 🌱 I’m currently learning ... Linux bash
+- 🌱 I’m currently learning ... Repairing circuit boards
 - 💞️ I’m looking to collaborate on ... getting more computers to our lives
 - 📫 How to reach me ... search me, I'll find you.
 
